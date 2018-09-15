@@ -1,3 +1,4 @@
+//三个水桶等分8升水问题
 #include<stdio.h>
 #include<assert.h>
 #include<deque>
